@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>S.O.S Manutenções Residenciais - Marido de Aluguel BH</name>
+      <description>Encanador, eletricista e desentupidora com atendimento em Belo Horizonte.</description>
+      <Point>
+        <coordinates>-43.945053,-19.799025,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
